@@ -1,0 +1,5 @@
+string[] products    # Request message: list of products
+---
+bool[] exist        # Response message: List of Boolean valus if the product exist
+bool[] in_stock     # Response message: List of Boolean values
+bool success        # Response message: Success or failure of conversion

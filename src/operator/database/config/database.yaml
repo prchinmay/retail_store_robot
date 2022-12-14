@@ -1,0 +1,65 @@
+# product database
+# retrieved from
+# https://roboticsbackend.com/ros-param-yaml-format/
+
+smoothie:
+  pose:
+    position:
+      x: 1.5
+      y: -1.35
+      z: 0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: -0.707
+      w: 0.707
+  amount: 1
+  aruco_id: 22
+  use_aruco: true
+
+yoghurt:
+  pose:
+    position:
+      x: 0.5
+      y: -1.35
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: -0.707
+      w: 0.707
+  amount: 2
+  aruco_id: 11
+  use_aruco: true
+
+
+milk:
+  pose:
+    position:
+      x: -0.5
+      y: -1.35
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: -0.707
+      w: 0.707
+  amount: 2
+  aruco_id: 33
+  use_aruco: true
+
+
+pringles:
+  pose:
+    position:
+      x: -1.4
+      y: -1.35
+      z: 0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: -0.707
+      w: 0.707
+  amount: 2
+  aruco_id: 44
+  use_aruco: true

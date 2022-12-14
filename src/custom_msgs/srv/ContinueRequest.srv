@@ -1,0 +1,4 @@
+bool request    # Request message: execute request
+---
+bool continue_   # Response message: Success or failure of continuing
+bool success    # Response message: Success or failure of request

@@ -1,0 +1,61 @@
+play_motion:
+  motions:
+    tuck_basket:
+      joints: [arm_left_1_joint, arm_left_2_joint, arm_left_3_joint, arm_left_4_joint, arm_left_5_joint, arm_left_6_joint, arm_left_7_joint, head_2_joint, head_1_joint]
+      points:
+        - time_from_start: 0
+          positions: [1.178, -0.61961, 2.4999, 0.91188, -0.48783, 1.3928, 1.4156, -0.45358, -1.2345e-06]
+        - time_from_start: 2
+          positions: [1.183, -0.58163, 2.2211, 0.63077, -0.76681, 1.3942, 1.7349, -0.45358, 1.3689e-06]
+        - time_from_start: 4
+          positions: [0.53649, -0.76491, 1.9924, 1.4618, -0.68975, 1.3444, 1.3578, -0.45286, 1.7256e-06]
+        - time_from_start: 6
+          positions: [0.05545, -0.96325, 1.6702, 1.9468, -0.55608, 1.3154, 1.2071, -0.45358, -1.6704e-06]
+        - time_from_start: 8
+          positions: [-0.13615, -0.35388, 1.6431, 1.8523, -1.2186, 1.3931, 1.4181, -0.45323, -7.8654e-06]
+
+    tuck_basket2:
+      joints: [arm_left_1_joint, arm_left_2_joint, arm_left_3_joint, arm_left_4_joint, arm_left_5_joint, arm_left_6_joint, arm_left_7_joint, head_2_joint, head_1_joint, torso_lift_joint]
+      points:
+        - time_from_start: 0
+          positions: [1.1818, -0.61408, 2.4931, 0.90161, -0.49526, 1.3928, 1.4212, -0.45483, 4.4943e-06, 0.3414]
+        - time_from_start: 1
+          positions: [1.1821, -0.60857, 2.3657, 0.74873, -0.61841, 1.3938, 1.6063, -0.45476, 1.3081e-06, 0.3414]
+        - time_from_start: 3
+          positions: [-0.78345, -0.35524, 1.2784, 1.3118, -1.5661, 0.94681, 2.0296, -0.45347, 6.7405e-06, 0.3414]
+        - time_from_start: 6
+          positions: [-1.0963, 0.50138, 2.6888, 1.8832, -1.1196, 0.63482, 0.051839, -0.45508, 1.6291e-06, 0.3414]
+        - time_from_start: 7
+          positions: [-1.108, 0.3141, 2.6102, 2.1878, -0.95542, 0.49692, -0.012857, -0.45512, -8.2587e-06, 0.15]
+
+    drop_in_basket:
+      joints: [arm_right_1_joint, arm_right_2_joint, arm_right_3_joint, arm_right_4_joint, arm_right_5_joint, arm_right_6_joint, arm_right_7_joint, head_2_joint, head_1_joint]
+      points:
+        - time_from_start: 0
+          positions: [-1.1, 1.4664, 2.7141, 1.7076, -1.5709, 1.3895, -1.7733e-05, -0.45512, -8.0798e-06]
+        - time_from_start: 2
+          positions: [1.5007, 1.2101, 1.7669, 1.8094, -1.4588, -0.52397, 0.42692, -0.45679, -7.7192e-06]
+        # - time_from_start: 3
+        #   positions: [-1.1, 1.4664, 2.7141, 1.7076, -1.5709, 1.3895, -1.7733e-05, -0.45512, -8.0798e-06]
+
+    drop_in_basket_tuck:
+      joints: [arm_right_1_joint, arm_right_2_joint, arm_right_3_joint, arm_right_4_joint, arm_right_5_joint, arm_right_6_joint, arm_right_7_joint, head_2_joint, head_1_joint]
+      points:
+        - time_from_start: 0
+          positions: [1.5007, 1.2101, 1.7669, 1.8094, -1.4588, -0.52397, 0.42692, -0.45679, -7.7192e-06]
+        - time_from_start: 2
+          positions: [-1.1, 1.4664, 2.7141, 1.7076, -1.5709, 1.3895, -1.7733e-05, -0.45512, -8.0798e-06]
+
+    place_basket:
+      joints: [arm_left_1_joint, arm_left_2_joint, arm_left_3_joint, arm_left_4_joint, arm_left_5_joint, arm_left_6_joint, arm_left_7_joint, head_2_joint, head_1_joint, torso_lift_joint]
+      points:
+        - time_from_start: 0
+          positions: [-1.108, 0.3141, 2.6102, 2.1878, -0.95542, 0.49692, -0.012857, -0.45512, -8.2587e-06, 0.15]
+        - time_from_start: 1
+          positions: [-1.0963, 0.50138, 2.6888, 1.8832, -1.1196, 0.63482, 0.051839, -0.45508, 1.6291e-06, 0.3414]
+        - time_from_start: 3
+          positions: [-0.78345, -0.35524, 1.2784, 1.3118, -1.5661, 0.94681, 2.0296, -0.45347, 6.7405e-06, 0.3414]
+        - time_from_start: 6
+          positions: [1.1821, -0.60857, 2.3657, 0.74873, -0.61841, 1.3938, 1.6063, -0.45476, 1.3081e-06, 0.3414]
+        - time_from_start: 7
+          positions: [1.1818, -0.61408, 2.4931, 0.90161, -0.49526, 1.3928, 1.4212, -0.45483, 4.4943e-06, 0.3414]

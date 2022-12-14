@@ -1,0 +1,21 @@
+
+<launch>
+  <!-- Launch the database parameter including all the information about
+  the available products !-->
+  <group ns='database'>
+    <rosparam file="$(find database)/config/database.yaml" />
+  </group>
+
+  <!-- Launch the home parameter including all the information about
+  the home location !-->
+  <group ns='home'>
+    <rosparam file="$(find database)/config/home.yaml" />
+  </group>
+  
+  <!-- Include the paramter about the basket, including all the information
+  about the basket !-->
+  <group ns='basket'>
+    <rosparam file="$(find database)/config/basket.yaml" />
+  </group>
+
+</launch>

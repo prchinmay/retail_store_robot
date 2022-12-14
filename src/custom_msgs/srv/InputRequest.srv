@@ -1,0 +1,4 @@
+bool request    # Request message: execute request
+---
+string[] list       # Response message: list of requested products
+bool success        # Response message: Success or failure of conversion

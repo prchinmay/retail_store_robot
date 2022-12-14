@@ -1,0 +1,4 @@
+string[] input_list       # Request message: list of products
+---
+string[] output_list       # Respond message: list of sorted products 
+bool success            # Response message: Success or failure of updated order 

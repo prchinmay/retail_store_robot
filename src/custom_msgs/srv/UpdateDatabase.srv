@@ -1,0 +1,4 @@
+string product       # Request message: list of products
+---
+int32 amount        # Response message: New amount in stock
+bool success        # Response message: Success or failure of conversion

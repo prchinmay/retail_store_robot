@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+
+    <!-- Load definition of tuck motion into play_motion namespace -->
+    <rosparam command="load" file="$(find arm_control)/config/play_motions.yaml" /> 
+
+    <node pkg="arm_control" type="pick_server.py" name="pick_server" output="screen"/>
+    <node pkg="arm_control" type="place_server.py" name="place_server" output="screen"/>
+
+</launch>

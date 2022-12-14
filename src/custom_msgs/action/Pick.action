@@ -1,0 +1,11 @@
+# Goal
+bool use_aruco            # If true a product will be picked, if false the basket will be picked
+uint32 aruco_id           # Specify which aruco id to pick
+string gripper_side       # Left or right gripper
+geometry_msgs/Pose pose   # Specify the post of the product
+---
+# Result
+bool success              # If the action was succesfull
+---
+# Feedback
+bool running
