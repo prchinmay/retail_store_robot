@@ -1,21 +1,16 @@
 ﻿# RO47007: Multidisciplinary Project
 
+https://user-images.githubusercontent.com/85110793/210624287-59f2cf0d-9320-4bff-8dc0-b255072ac636.mp4
 The video above shows our team's implementation of item search and pick on the TIAGO robot in TU Delft's AIR lab. 
 [![Watch this video]](https://www.youtube.com/watch?v=xifuk3I1CPw) for the ROS simulation of the same.
 
-
 ## Description
-
-
-
 In today's modern society, people are often stressed and always in a hurry, and today's supermarkets only increase this burden. 
 Especially when going to new shops, it is often difficult to locate the product of interest amongst the number of aisles and the plethora of items. 
 Of course, employee's can be asked for help, but they can either never be found when you need them, not know where your product
 is located if the employee is new, or simply lie about the product being out of stock to not have to search to whole storage room. 
 Supermarkets are simply inefficient, stressful for customers and currently a hotbed for diseases to spread.\
   
-
-
 Looking from the supermarkets perspective, decreasing the time people spend in supermarkets will lead to a larger amount of people 
 that can visit the supermarket each day. With the current regulations, where only a limited amount of people is allowed into the 
 supermarket at the same time, a shorter visit will thus lead to a higher revenue of the supermarket.\
@@ -25,15 +20,9 @@ of customers. When a customer is looking for an item, the customer walks to TIAG
 correct item TIAGo will directly tell you if the item is in stock or not. If it is in stock TIAGo will find the product and place it on the desk 
 located in front of TIAGo's initial position. TIAGo will place the order of the customer on the table and will be ready for new tasks.
 
-
-
 ## Overview
 
-
-
 ### Folder structure
-
-
 This project is structured as visualised below. In this tree stucture, plain text indicates a general folder/, links indicate a [package/]() and italic links indicate a [*submodule/*](). Please refer to the links below for a more elaborate explanation of the inner workings of each package.
 
 multidisciplinary_project/  
