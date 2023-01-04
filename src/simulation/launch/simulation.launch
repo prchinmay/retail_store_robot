@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<launch>
+  <!-- Configurable launch args -->
+  <arg name="use_sim_time" default="true" />
+  <arg name="gui" default="true"/>
+  <arg name="headless" default="false" />
+  <arg name="use_moveit_camera" default="true"/>
+  <arg name="extra_gz_model_path" default="$(find tiago_gazebo)/models"/>
+  <arg name="extra_gz_resource_path" default="$(find tiago_gazebo)"/>
+  <arg name="world" default="shelves"/>
+  <arg name="laser_model" default="sick-561"/>
+  <arg name="navigation" default="true"/>
+  <arg name="use_aruco" default="true"/>
+
+
+  <env name="GAZEBO_MODEL_PATH" value="$(arg extra_gz_model_path):$(find pal_gazebo_worlds)/../pal_gazebo_worlds_private/models:$(find pal_gazebo_worlds)/models:$(optenv GAZEBO_MODEL_PATH)"/>
+  <env name="GAZEBO_RESOURCE_PATH" value="$(arg extra_gz_resource_path):$(find pal_gazebo_worlds)/../pal_gazebo_worlds_private:$(find pal_gazebo_worlds):$(optenv GAZEBO_RESOURCE_PATH)"/>
+
+
+  <include file="$(find simulation)/launch/tiago_dual_gazebo.launch">
+    <arg name="world" value="$(find simulation)/worlds/$(arg world).world"/>
+    <arg name="use_moveit_camera" value="$(arg use_moveit_camera)"/>
+    <arg name="public_sim" value="true"/>
+    <arg name="end_effector_left" value="pal-gripper"/>
+    <arg name="end_effector_right" value="pal-gripper"/>
+    <arg name="laser_model" value="$(arg laser_model)"/>
+    <arg name="ft_sensor_left"  default="false"/>
+    <arg name="ft_sensor_right"  default="false"/>  
+  </include>
+  
+
+  <!-- Throttle pointcloud messages if use_moveit_camera is used -->
+  <group if="$(eval arg('use_moveit_camera'))">
+    <node name="octomap_throttle" pkg="topic_tools" type="throttle" args="messages /xtion/depth_registered/points 2  /throttle_filtering_points/filtered_points"/>
+    <param name="move_group/octomap_resolution" type="double" value="0.05"/>
+    <param name="move_group/octomap_frame" type="string" value="map"/>
+  </group>
+
+  <node name="fake_localization" pkg="fake_localization" type="fake_localization">
+    <remap from="base_pose_ground_truth" to="/ground_truth_odom"/>
+  </node>
+
+  <group if="$(eval arg('navigation'))">
+    <node name="map_server" pkg="map_server" type="map_server" args="$(find simulation)/maps/$(arg world)/$(arg world).yaml"/>
+
+    <include file="$(find simulation)/launch/tiago_dual_navigation.launch">
+      <arg name="map" value="$(find simulation)/maps/$(arg world)/$(arg world).yaml"/>
+    </include>
+  </group>
+
+  <param name="move_base/TebLocalPlannerROS/yaw_goal_tolerance" type="double" value="0.027"/>
+  <param name="move_base/TebLocalPlannerROS/min_obstacle_dist" type="double" value="0.0"/>  
+  <param name="move_base/TebLocalPlannerROS/inflation_dist" type="double" value="0.0"/>
+  
+  <param name="aruco/use_aruco" type="bool" value="$(arg use_aruco)"/>
+
+  <!-- marker detector multi-->
+  <node pkg="detection" type="marker_publisher" name="aruco_marker_publisher">
+      <remap from="/camera_info" to="/xtion/rgb/camera_info" />
+      <remap from="/image" to="/xtion/rgb/image_rect_color" />
+      <param name="image_is_rectified" value="true"/>
+      <param name="marker_size"        value="0.045"/>
+      <param name="reference_frame"    value="/base_footprint"/> 
+      <param name="camera_frame"       value="xtion_rgb_optical_frame"/>
+  </node>
+
+  <include file="$(find arm_control)/launch/arm_control.launch"/>
+
+  <!-- marker detector single-->
+  <!-- <node pkg="detection" type="single"  name="aruco_single">
+      <remap from="/camera_info"       to="/xtion/rgb/camera_info" />
+      <remap from="/image"             to="/xtion/rgb/image_rect_color" />
+      <param name="image_is_rectified" value="True"/>
+      <param name="marker_size"        value="0.045"/>
+      <param name="marker_id"          value="333"/>
+      <param name="reference_frame"    value="/base_footprint"/>  
+      <param name="camera_frame"       value="xtion_rgb_optical_frame"/>
+      <param name="marker_frame"       value="aruco_frame" />
+      <param name="corner_refinement"  value="SUBPIX" />
+  </node> -->
+
+  <arg name="rviz"  default="false"/>
+  <group if="$(arg rviz)">
+      <node name="pick_demo_rviz" pkg="rviz" type="rviz" args="-d $(find detection)/config/rviz/tiago_pick_demo.rviz" />
+  </group> 
+
+</launch>
+

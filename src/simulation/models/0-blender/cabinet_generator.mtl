@@ -1,0 +1,1112 @@
+# Blender MTL File: 'cabinet_generator.blend'
+# Material Count: 101
+
+newmtl Material.091
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Wasa_sesam.JPG
+
+newmtl Material.092
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/L_OR_koffiecups_espresso_Colombia.JPG
+
+newmtl Material.093
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/L_OR_koffiecups_espresso_estremo.JPG
+
+newmtl Material.094
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Unox_cupasoup_prei_creme.JPG
+
+newmtl Material.095
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_thee_groen_naturel.JPG
+
+newmtl Material.096
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/LU_cracotte_crackets_volkoren.JPG
+
+newmtl Material.097
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_thee_groen_goji_acai.JPG
+
+newmtl Material.098
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/MORA_oven_bamischijven.JPG
+
+newmtl Material.099
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Nescafe_oploskoffie_gold_cappucino.JPG
+
+newmtl Material.100
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/L_OR_koffiecups_espresso_supremo.JPG
+
+newmtl Material.101
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Unox_cupasoup_mosterd.JPG
+
+newmtl Material.102
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Quaker_Cruesli_rode_vruchten.JPG
+
+newmtl Material.103
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Crystal_Clear_apple_pear.JPG
+
+newmtl Material.104
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/L_OR_koffiecups_espresso_onyx.JPG
+
+newmtl Material.105
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Perla_koffiecups_lungo_dark.JPG
+
+newmtl Material.106
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/L_OR_koffiecups_espresso_decaffeinato.JPG
+
+newmtl Material.107
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_thee_zwart_citroen.JPG
+
+newmtl Material.108
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Perla_koffiecups_espresso_dark.JPG
+
+newmtl Material.109
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/L_OR_koffiecups_espresso_lungo_profondo.JPG
+
+newmtl Material.110
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/LU_cracotte_crackets_naturel.JPG
+
+newmtl Material.111
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Wasa_goudbruin.JPG
+
+newmtl Material.112
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/L_OR_koffiecups_espresso_lungo_elegante.JPG
+
+newmtl Material.113
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_thee_groen_appel_kiwi.JPG
+
+newmtl Material.114
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Crystal_Clear_orange_mandarin.JPG
+
+newmtl Material.115
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/L_OR_koffiecups_espresso_India.JPG
+
+newmtl Material.116
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_krokante_muesli_appel_rozijn.JPG
+
+newmtl Material.117
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Unox_cupasoup_champignon_creme.JPG
+
+newmtl Material.118
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_thee_zwart_appel_kaneel.JPG
+
+newmtl Material.119
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_thee_rooibos_boabab.JPG
+
+newmtl Material.120
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Unox_cupasoup_kip.JPG
+
+newmtl Material.121
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Wasa_vezelrijk.JPG
+
+newmtl Material.122
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_oven_partymix.JPG
+
+newmtl Material.123
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Unox_cupasoup_tomaat.JPG
+
+newmtl Material.124
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/L_OR_koffiecups_espresso_estremo.JPG
+
+newmtl Material.125
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_thee_rooibos_honing.JPG
+
+newmtl Material.126
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_thee_groen_wit_jasmijn_oranjebloesem.JPG
+
+newmtl Material.127
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_thee_zwart_mango.JPG
+
+newmtl Material.128
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Wasa_zuurdesem_rogge.JPG
+
+newmtl Material.129
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Unox_cupasoup_chinese_tomaat.JPG
+
+newmtl Material.130
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/MORA_oven_kipkorn.JPG
+
+newmtl Material.131
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_hagelslag_wit.JPG
+
+newmtl Material.132
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_thee_groen_cranberry_appel.JPG
+
+newmtl Material.133
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Unox_cupasoup_pittige_tomaat.JPG
+
+newmtl Material.134
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_thee_zwart_aardbei.JPG
+
+newmtl Material.135
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/L_OR_koffiecups_lungo_elegante.JPG
+
+newmtl Material.136
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_thee_zwart_winter.JPG
+
+newmtl Material.137
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Crystal_Clear_lemon_passionfruit.JPG
+
+newmtl Material.138
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Unox_cupasoup_kerrie.JPG
+
+newmtl Material.139
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Perla_Koffie_Aroma_rood.JPG
+
+newmtl Material.140
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_thee_groen_sinaasappel_papaja.JPG
+
+newmtl Material.141
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Wasa_zuurdesem_meergranen.JPG
+
+newmtl Material.142
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Quaker_Cruesli_chocolade.JPG
+
+newmtl Material.143
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_krokante_muesli_chocolade.JPG
+
+newmtl Material.144
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Unox_cupasoup_tomaten_creme.JPG
+
+newmtl Material.145
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/MORA_oven_rundvlees_bitterbal.JPG
+
+newmtl Material.146
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Quaker_Cruesli_multifruit.JPG
+
+newmtl Material.147
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Unox_cupasoup_groente.JPG
+
+newmtl Material.148
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Crystal_Clear_pear_coconut.JPG
+
+newmtl Material.149
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_thee_groen_citroen_citroengras.JPG
+
+newmtl Material.150
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Perla_Koffie_Aroma_blauw.JPG
+
+newmtl Material.151
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_thee_engelse_melange.JPG
+
+newmtl Material.152
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/DeRuijter_muisjes_roze.JPG
+
+newmtl Material.153
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/MORA_oven_kipnuggets.JPG
+
+newmtl Material.154
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_thee_groen_kurkuma.JPG
+
+newmtl Material.155
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_krokante_muesli_noten.JPG
+
+newmtl Material.156
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_hagelslag_mix.JPG
+
+newmtl Material.157
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Quaker_Cruesli_luchtig_naturel.JPG
+
+newmtl Material.158
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Wasa_rogge_bio.JPG
+
+newmtl Material.159
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_thee_zwart_sinaasappel.JPG
+
+newmtl Material.160
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/L_OR_koffiecups_espresso_ristretto_decaf.JPG
+
+newmtl Material.161
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/L_OR_koffiecups_lungo_profondo.JPG
+
+newmtl Material.162
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Quaker_Cruesli_hazelnut_honey.JPG
+
+newmtl Material.163
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_thee_zwart_bosvruchten.JPG
+
+newmtl Material.164
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_thee_groen_mango_koks.JPG
+
+newmtl Material.165
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_hagelslag_puur.JPG
+
+newmtl Material.166
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Wasa_lichtgewicht.JPG
+
+newmtl Material.167
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_hagelslag_zaanse.JPG
+
+newmtl Material.168
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Wasa_glutenvrij.JPG
+
+newmtl Material.169
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Quaker_Cruesli_cookies_cream.JPG
+
+newmtl Material.170
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/MORA_oven_groenten_bitterbal.JPG
+
+newmtl Material.171
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/DeRuijter_muisjes_gestampt.JPG
+
+newmtl Material.172
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Crystal_Clear_cranberry_lime.JPG
+
+newmtl Material.173
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_krokante_muesli_fruit.JPG
+
+newmtl Material.174
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Wasa_volkoren.JPG
+
+newmtl Material.175
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_hagelslag_melk.JPG
+
+newmtl Material.176
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_thee_zwart_honing.JPG
+
+newmtl Material.177
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Crystal_Clear_raspberry_blueberry.JPG
+
+newmtl Material.178
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/DeRuijter_muisjes_blauw.JPG
+
+newmtl Material.179
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Unox_cupasoup_erwt.JPG
+
+newmtl Material.180
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/L_OR_koffiecups_espresso_original_guatemala.JPG
+
+newmtl Material.181
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_thee_groen_mint.JPG
+
+newmtl RAL_9006.010
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.195711 0.163669 0.290247
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl Tetra_Rex.009
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/ARLA_bio_melk_halfvol.JPG
+
+newmtl Tetra_Rex.010
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Arla_bio_melk.JPG
+
+newmtl Tetra_Rex.011
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Zaanse_hoeve_yoghurt_vanille.JPG
+
+newmtl Tetra_Rex.012
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Zaanse_hoeve_karnemelk.JPG
+
+newmtl Tetra_Rex.013
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/ARLA_bio_yoghurt_vanille.JPG
+
+newmtl Tetra_Rex.014
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/ARLA_bio_karnemelk.JPG
+
+newmtl Tetra_Rex.015
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Zaanse_hoeve_yoghurt_vol.JPG
+
+newmtl Tetra_Rex.016
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/AH_yoghurt_halfvol.JPG
+
+newmtl Tetra_Rex.017
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/stefan/cabinet-generator/AH_products/models/textures/Zaanse_hoeve_vollemelk.JPG

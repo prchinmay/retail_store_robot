@@ -1,0 +1,25 @@
+<launch>
+
+  <!-- Define empty parameter for the shopping list they will be filled in
+  based on the requested products by the customer !-->
+  <rosparam param="shopping_list">[]</rosparam>
+  <rosparam param="shopping_list_available">[]</rosparam>
+  <rosparam param="shopping_list_in_order">[]</rosparam>
+
+  <!-- The database contain the different products, the position where Tiago
+  should drive to inorder to obtain the products, the amount in stocks, their
+  corresponding aruco id, the home location and information about the basket !-->
+  <include file="$(find database)/launch/database.launch"/>
+
+  <!-- Define different parameter necessary for the conditions in the BT. These
+  parameter play a crusial roll in the error handling of the control system. !-->
+  <param name="input_request_param" type="bool" value="False" />
+  <param name="hold/left_arm" type="bool" value="False" />
+  <param name="hold/right_arm" type="bool" value="False" />
+  <param name="handling_request" type="bool" value="False"/>
+
+  <!-- Load in the operator nodes. !-->
+  <node name="input_handling" pkg="input_handling" type="input_handling.py" output="screen" respawn="true"/>
+  <node name="database" pkg="database" type="database.py" output="screen" respawn="true"/>
+
+</launch>
