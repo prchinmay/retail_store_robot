@@ -1,6 +1,11 @@
-﻿# RO47007: Multidisciplinary Project
+# RO47007: Multidisciplinary Project
 
-https://user-images.githubusercontent.com/85110793/210624287-59f2cf0d-9320-4bff-8dc0-b255072ac636.mp4
+
+
+https://user-images.githubusercontent.com/85110793/210624762-1c7e478a-eb0b-4ba4-84a8-7be66fa85839.mp4
+
+
+
 The video above shows our team's implementation of item search and pick on the TIAGO robot in TU Delft's AIR lab. 
 [![Watch this video]](https://www.youtube.com/watch?v=xifuk3I1CPw) for the ROS simulation of the same.
 
