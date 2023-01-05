@@ -2,12 +2,15 @@
 
 
 
+https://user-images.githubusercontent.com/85110793/210734156-8b661572-a6dd-4620-a1f5-ea51f368d5ea.mp4
+
+
+
 https://user-images.githubusercontent.com/85110793/210624762-1c7e478a-eb0b-4ba4-84a8-7be66fa85839.mp4
 
 
 
-The video above shows our team's implementation of item search and pick on the TIAGO robot in TU Delft's AIR lab. 
-[Watch this video](https://www.youtube.com/watch?v=xifuk3I1CPw) for the ROS simulation of the same.
+The videos above shows our team's implementation of item search and pick on the TIAGO robot in TU Delft's AIR lab and the ROS simulation of the same.
 
 ## Description
 In today's modern society, people are often stressed and always in a hurry, and today's supermarkets only increase this burden. 
